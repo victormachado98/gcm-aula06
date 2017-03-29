@@ -12,3 +12,4 @@ Ferramentas de controle de versão:
 * Clear Case
 * GitHub
 * Visual Studio Team Services
+* Bitbucket
